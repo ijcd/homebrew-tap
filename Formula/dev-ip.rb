@@ -1,8 +1,8 @@
 class DevIp < Formula
   desc "Static per-workspace loopback IP + hostname allocator for macOS"
   homepage "https://github.com/ijcd/dev-ip"
-  url "https://github.com/ijcd/dev-ip/archive/v0.1.1.tar.gz"
-  sha256 "eb61db8992905404c5d34772d52343b451032c5ad44ea5a1451c4d2c38c15ae0"
+  url "https://github.com/ijcd/dev-ip/archive/v0.1.2.tar.gz"
+  sha256 "defea0280b980288b281bd7e02d468e5a27c31af9b6274f25a4aa165dd7166fc"
   license "GPL-3.0-or-later"
 
   depends_on :macos
